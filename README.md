@@ -5,4 +5,4 @@ The file 2state3DFBCA.py generates wavefront (.obj) files for every update of an
 The file objRender.py generates a wavefront (.obj) of stacked length, width and height (.obj) file.
 
 Personally I run this file on the most recent version of Ubuntu using python3. 
-To generate the animated images shown for the 5x5x5, 10x10x10 the .obj files were strung together using stop motion obj, a blender add-on available at https://github.com/neverhood311/Stop-motion-OBJ .
+To generate the animated images shown for the 5x5x5 the .obj files were first converted to an .stl then .obj again using Spin 3D Mesh Converter, available at https://www.nchsoftware.com/3dconverter/index.html. This is needed due to blender not wanting to import the .objs generated. These .objs are then strung together using stop motion obj, a blender add-on available at https://github.com/neverhood311/Stop-motion-OBJ .
