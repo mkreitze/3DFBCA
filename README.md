@@ -19,8 +19,11 @@ To render this easily, an add on to blender known as Stop Motion Obj is used (ht
 ![2121 State 20x20x20](https://github.com/mkreitze/3DFBCA/blob/master/20x20x20%202121gif.gif)
 
 The provided gifs use the score matrices: 
-[0.1,1.2,2.0,0] for the two state (grey and empty) FBCA
-[[0.320205,0.952292,0.351335,0.837774,0.390741,0.728013,0.614486,0.378596,0.320205,0.952292,0.351335,0.837774,0.390741,0.728013,0.614486,0.378596] (known as 1212),[0.390741,0.728013,0.614486,0.378596,0.320205,0.952292,0.351335,0.837774,0.390741,0.728013,0.614486,0.378596,0.320205,0.952292,0.351335,0.837774]] (known as 2121) for the four state (green, red, blue, empty) FBCA. 
+[0.1,1.2,2.0,0] for the two state (grey and empty) FBCA and
+
+[[0.320205,0.952292,0.351335,0.837774,0.390741,0.728013,0.614486,0.378596,0.320205,0.952292,0.351335,0.837774,0.390741,0.728013,0.614486,0.378596] (known as 1212),
+[0.390741,0.728013,0.614486,0.378596,0.320205,0.952292,0.351335,0.837774,0.390741,0.728013,0.614486,0.378596,0.320205,0.952292,0.351335,0.837774]] (known as 2121) 
+for the four state (green, red, blue, empty) FBCA. 
 
 
 Incase it matters, I utilize an Ubuntu VM for all my code.
